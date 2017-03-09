@@ -889,7 +889,7 @@ input.submit{
 /* clear fix */
 .grid{
   margin-bottom: 150px;
-  margin-left: 10px;
+  margin-left: 20px;
 }
 .grid:after {
   content: '';
