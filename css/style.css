@@ -871,11 +871,6 @@ input.submit{
   padding-left: 27%;
 }
 
-.button-subgroup {
-  margin-bottom: 20px;
-  padding-left: 10%;
-}
-
 .button-group:after {
   content: '';
   display: block;
